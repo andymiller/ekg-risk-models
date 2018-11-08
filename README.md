@@ -1,8 +1,8 @@
 # ekg-risk-models
 Code for for fitting EKG-based risk predictors; companion to the paper
 
-> A Comparison of Patient History- and EKG-based Cardiac Risk Scores
-> Andrew C. Miller, Sendhil Mullainathan, Ziad Obermeyer
+> A Comparison of Patient History- and EKG-based Cardiac Risk Scores  
+> Andrew C. Miller, Sendhil Mullainathan, Ziad Obermeyer  
 > Proceedings of the AMIA Summit on Clinical Research Informatics (CRI), 2018
 
 This repository implements two different EKG-based predictive models
