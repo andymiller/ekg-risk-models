@@ -12,11 +12,6 @@ from torch.autograd import Variable
 from torch.nn import init
 import numpy as np
 do_cuda = torch.cuda.is_available()
-
-# base models
-#s#ys.path.append("../common/")
-#import util, evaluate
-#from model import base
 from ekgmodels import base
 
 
